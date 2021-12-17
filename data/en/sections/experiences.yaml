@@ -1,0 +1,124 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Tata Consultancy Services.
+    url: "https://www.tcs.com"
+    location: Chennai TN India 
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Assistant Consultant
+    start: Oct 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developed **PL/SQL** packages to produce the reports from Warehouse with the specific point in Time. 
+
+    - Built **Tableau** Report on top of Data set to visualize the data which helps in making the business decision. 
+
+    - Completed **Azure Fundamentals AZ-900** Certification provided by Microsoft.
+
+    - Completed **Azure AI Fundamentals AI-900** Certification provided by Microsoft.
+
+- company:
+    name: Tata Consultancy Services.
+    url: "https://www.tcs.com"
+    location: Hartford CT USA
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Assistant Consultant
+    start: Apr 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Oct 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed the DataMart for the Marine Builders’ Risk Application.  
+
+    - Developed **PL/SQL** packages to produce the reports from Warehouse with the specific point in Time. 
+
+    - Built **Tableau** Report on top of Data Mart to visualize the data which helps in making the business decision. 
+
+    - Developed Data Monitoring Engine using **PLSQL** and **Tableau** for Defect prevention activities, metric data collection, analysis in the project. 
+
+    - Completed **Python** for **Data Science** Certification provided by Microsoft. 
+
+    - Developed Universal Windows Application for Appointment Scheduling for Business and Customer faced Apps using **XAML/C#** (Self Learning). 
+
+    - Developed **PL/SQL packages** to parse XML data and extract information from XML to calculate Net Rate based on Prior information available in the database. 
+
+    - Developed **WPF** application to parse the PDF data and compare against the Oracle database to make sure the Income statement produced by Finance team is matching with what we displayed to Top Management. 
+
+    - Lead Offshore Team
+  - designation: IT Analyst
+    start: Aug 2015
+    end: Apr 2018
+    responsibilities:
+    - Designed the DataMart for the New Application.  
+
+    - Developed **PL/SQL** packages to produce the reports from Warehouse with specific point in Time.  
+
+    - Built the data for Reporting in Multiple Layouts to get better understanding of data.  
+
+    - Created **C# .NET** prototype for Executives who can use their voice command to filter, refresh the data in Dashboard.  
+
+    - Built My Own **Voice Assistant** using **C# .NET** to automate my regular activities like Timesheet filling, Launching Favorite Websites, searching in “DataWiki” a SharePoint site, Downloading reports from Portal.
+- company:
+    name: Tata Consultancy Services.
+    url: "https://www.tcs.com"
+    location: Chennai TN India 
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: IT Analyst
+    start: Apr 2013
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Aug 2015
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      - Developed Dynamic **PL/SQL** packages to handle multiple Lines of Business.  
+
+      - Tuned the **PL/SQL** code for better performance of the application which was running for more than 10 hrs.  
+
+      - Rewrote the existing code in **C++** with **PRO*C**, improve Performance by executing the Oracle Procedures in threading and handled 3 projects in parallel. Analyzed the Data from downstream application to bring back to the required applications during the emergency like Oracle Database Crash.  
+
+      - Developed innovative approach to simulate the daily **ETL** process includes **Informatica**, **PL/SQL** Procedures, Linux **Shell Scripting** in bulk mode.  
+
+      - Handled the issues which are arrived during the simulation of daily process into bulk process to make data available as daily processed data.  
+
+      - Developed **VB.NET** Application to automate the process of Retrofit development (Oracle Table Structure Changes) using Mapping documents as input.  
+
+      - Developed **VB.NET** Application to modify the **Informatica** Mapping (XML Files) based on the inputs in Mapping Documents provided by Data Modeler.  
+
+      - Developed **C#.NET** Application a frontend tool to compare the Database objects and dependency tracing in multiple environments and generate the report.  
+
+      - Completed **MAPR** Course for Hadoop Developer and obtained Certificate Provided by MAPR Academy.  
+
+      - Developed Linux **Shell Scripts** to generate **Autosys Jil** Scripts using parameters.  
+  - designation: Systems Engineer
+    start: Jul 2010
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Apr 2013
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developed complex **Informatica** Mappings and Workflow to load data.  
+
+    - Developed **PL/SQL** packages containing several Procedures, Functions, Triggers, Cursors, Control Statements, Exceptions and Oracle bulk collect statements.  
+
+    - Identifying the performance bottlenecks and solving the issues in time to meet our SLA.  
+
+    - Developed **UNIX** shell scripts for file transfer, job automation, Code Migration between Environments.  
+
+    - Developed test cases and performed unit test for the code.  
+
+    - Documented the activities performed during the development and testing phase.  

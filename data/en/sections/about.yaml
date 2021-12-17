@@ -1,0 +1,107 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Assistant Consultant
+# your company information
+company:
+  name: Tata Consultancy Services.
+  url: "https://www.tcs.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary:
+   '- 11 Years of experience in Development of Data Warehouse applications in Insurance domain.
+   
+    - Experienced in building Relational, Dimensional Data Warehouse.
+
+    - Skilled in Automating repeated development activity.  
+
+    - Core member for conducting peer code reviews.  
+    
+    - Proven ability in data analytics and data mining.  
+    
+    - Familiar with Agile, Waterfall and Hybrid methodologies.  
+    
+    - Good Experience in ETL Framework.  
+    
+    - Technical Experience in PL/SQL, C++, C#, Shell Scripting, Informatica.  
+    
+    - Experienced in developing Desktop Application using C#.NET, Universal Windows Store App (XAML/C#) development. 
+    
+    - Experienced in developing Tableau Dashboards.'
+  
+
+ 
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "vinodh.ramu@hotmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+  #name: Stackoverflow
+  #icon: "fab fa-stack-overflow"
+  #url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+# name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
+
+# name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+#softSkills:
+#- name: Leadership
+#  percentage: 85
+#  color: blue
+#- name: Team Work
+#  percentage: 90
+#  color: yellow
+badges:
+- type: certification
+  name: Microsoft Certified Azure Fundamentals
+  url: "https://www.credly.com/earner/earned/badge/1fc5af40-a231-40d0-8d20-16865021c37f"
+  badge: "https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
+
+- type: certification
+  name: Microsoft Certified Azure AI Fundamentals
+  url: "https://www.credly.com/earner/earned/badge/58d1f879-8cea-4e49-9188-7452a7e2f8de"
+  badge: "https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
