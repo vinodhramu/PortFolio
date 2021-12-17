@@ -1,0 +1,98 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Data Warehousing / Databases -11 Yrs
+  logo: "/images/skills/database.png"
+  summary: 
+    "- 11 Years of experience in Development of Data Warehouse applications in Insurance domain. 
+    
+     - Experienced in building Relational, Dimensional Data Warehouse.
+     
+     - Capable of writing Packages, Procedures and Dynamic-Sqls in various database like Oracle, MS Sql Server, Teradata.
+     
+     - Good Experience in ETL Framework"
+  #url: "https://kubernetes.io/"
+
+
+- name: Tableau - 3 Yrs
+  logo: "images/skills/tableau.png"
+  summary: 
+    " - Capable of Building KPI Dashboards and Comparison Reports.
+      
+      - Capable of Building Dynamic Dashboards based on Parameters.
+      
+      - Good at building Dynamic Filters/ Dynamic Hierarchies in Tableau."
+
+- name: Python - 2 Yrs
+  logo: "/images/skills/python.png"
+  summary: 
+    " - 2 Years of Experience in writing python scripts connecting Oracle Database.
+      
+      - Good Knowledge in handling Python Libraries like Numpy, Pandas, MatPlotLib.
+      
+      - Completed course in Pyspark to handle BigData."
+  #url: "https://golang.org/"
+
+- name: Cloud - Azure 
+  logo: "/images/skills/azure.png"
+  summary: 
+    " - 2 Years of Experience Cloud.
+      
+      - 2x Microsoft Certified in Azure.
+      
+      - Hands on Experience in BotFramework."
+  #url: "https://golang.org/"
+
+- name: XAML/ C#.Net -8 Yrs
+  logo: "/images/skills/xamarin.png"
+  summary: 
+    "- Experienced in developing 3 Desktop Application using C#.NET.
+
+     - Built 2 Universal Windows Store App (XAML/C#).
+     
+     - Built My Own Voice Assistant using C# .NET to automate my regular activities like:
+       Timesheet filling, Launching Favorite Websites, Downloading reports from Portal"
+
+
+- name: Power Center Informatica - 3 Yrs
+  #logo: "/images/skills/go.png"
+  summary: 
+    "- Developed complex Informatica Mappings and Workflow to load data.
+
+     - Handled Different sources like FlatFile, Various Databases.
+     
+     - Accessed Metadata and traced the ETL Flow of Applications."
+  #url: "https://golang.org/"
+
+- name: Linux Shell Scripting - 4 Yrs
+  logo: "images/skills/linux.png"
+  summary: 
+    " - Capable of writing bash/shell scripts.
+      
+      - Wrote Many Shell Scripts in Automating the process.
+      
+      - Developed innovative approach to simulate the daily ETL process includes Informatica, PL/SQL Procedures, Linux Shell Scripting in bulk mode
+      
+      - Developed Linux Shell Scripts to generate Autosys Jil Scripts using parameters"
+
+
+
+- name: C++ - 5 Yrs
+  logo: "images/skills/C++.png"
+  summary: 
+    " - Strong knowledge in C/C++ programming. 
+      
+      - Used Genetic algorithm to schedule preventive maintenance.
+
+      - Rewrote the existing code in C++ with PRO*C, improve Performance by executing the Oracle Procedures in threading and handled 3 projects in parallel"
+

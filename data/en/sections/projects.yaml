@@ -1,0 +1,117 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Linux
+  filter: "Linux"
+- name: PLSQL
+  filter: "PL/SQL"
+- name: Tableau
+  filter: "Tableau"
+
+# your projects
+projects:
+- name: Risk State Performance Improvement
+  logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Oct 2020 - Present"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Risk State Performance Improvement is the project where we are building Dataset to analyze the performance of any state when compared to other states. Customer was keen on one state, we build the process and report that can be used of any state so no need of rebuilding the report for other states.
+  tags: ["professional", "Tableau", "PL/SQL"]
+
+
+- name: Data Monitoring Engine
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jan 2020 - Oct 2020"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Data Monitoring Engine is Data quality tool which we build using various technologies to ensure data quality is good before releasing it to customers. Framework which we built is using PLSQL to produce data set and Tableau is used to visualize the results and Web Pages to navigate to different reports.
+  tags: ["professional", "Tableau", "PL/SQL"]
+
+- name: Enhanced Net Rate Calculator
+  logo: /images/sections/projects/toha.png
+  role: Lead Developer
+  timeline: "Mar 2019 - Dec 2019"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Enhanced Net Rate Calculator is the tool which is used to do calculate Net Rate Change based on Exposure and Premium. Previously this is done in Excel Formulas, but customers wanted to see in Webpage and data needed for doing calculation is partially available in XML and partially in database
+  tags: ["professional", "XML", "PL/SQL"]
+
+
+- name: BI- Marine Builders’ Risk
+  logo: /images/sections/projects/tensorflow.png
+  role: DataMart Designer/Developer
+  timeline: "May 2018 - Mar 2019"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: Marine Builders’ Risk delivers reports by working closely with customers in Actuarial, Commercial Lines space.  In addition, supporting Actuarial initiatives by delivering custom user interfaces like Tableau Dashboard.
+  tags: ["professional", "Tableau", "PL/SQL"]
+
+- name: Pricing Redesign  
+  logo: /images/sections/projects/toha.png
+  role: Senior Lead Developer
+  timeline: "Mar 2016 - Apr 2017"
+  #repo: https://github.com/hossainemruz/toha
+  summary: The Redesign project aims at retiring Mainframe file processes that are used for reporting. The data that is obtained in Staging is moved into data mart through various complex business rules that are written using Oracle stored procedure. The reporting solution is offered through MSBI, SAS and Web Reporting.  
+  tags: ["professional", "XML", "PL/SQL"]
+
+- name: IDS- Quick Glance Reporting
+  logo: /images/sections/projects/toha.png
+  role: Lead Developer
+  timeline: "Sep 2015 - Mar 2016"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Information Delivery Services (IDS) Scheduled Reporting aims in generating reports for Commercial lines, Claims and Wealth management portfolios. The reports are generated on a periodic basis to help the actuaries in understanding the business trend.  
+  tags: ["professional", "XML", "PL/SQL","MS Sql-Server"]
+
+- name: SAS Migration 
+  logo: /images/sections/projects/toha.png
+  role: Automation Engineer
+  timeline: "Mar 2015 - Aug 2015"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Client does not want to spend more money in maintaining SAS Database. So, they wanted to migrate to Teradata database since the integration between SAS and Teradata is better than any other database.
+  tags: ["professional", "SAS", "Teradata"]
+
+- name: ARE
+  logo: /images/sections/projects/toha.png
+  role: Lead Developer
+  timeline: "Aug 2012 - Apr 2013"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Automated Rating Engine (ARE) Project is to prepare the data from Oracle system to feed into Ratabase a third-party Tool installed in Linux server using C++.  
+  tags: ["professional", "PL/SQL","C++","Pro*C","Linux","Shell Scripting"]
+
+- name: CDF 
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Jun 2012 - Aug 2012"
+  #repo: https://github.com/hossainemruz/toha
+  summary: CDF (Catastrophe Data Facility) Recovery is Emergency Project to back the original data which lost due to Database crash from the downstream application.  
+  tags: ["professional", "Informatica","Linux", "PL/SQL","Shell Scripting"]
+
+- name: CLDW
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Sep 2011 - Mar 2015"
+  #repo: https://github.com/hossainemruz/toha
+  summary: The Application CLDW (Commercial Line Data Warehouse) is a data mart for the client which helps in maintaining the history to generate the reports as needed. This application loads the data from different sources and processed into the data mart using ETL tools and stored procedures.  
+  tags: ["professional", "Linux", "PL/SQL","Informatica","Shell Scripting"]
+
+
+- name: Personal Lines Data Warehouse (PLDW) Exadata Migration
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Aug 2010 - Sep 2011"
+  #repo: https://github.com/hossainemruz/toha
+  summary: IM PLDW data warehouse was housed in Superdome server and Oracle 10g database. The EXADATA migration project, seeks to migrate the PLDW data warehouse from Oracle 10g to Exadata (Oracle 11 i).  
+  tags: ["professional", "Informatica","Linux", "PL/SQL","Shell Scripting"]
